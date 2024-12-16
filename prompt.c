@@ -4,6 +4,7 @@
 /**
 * stdin (entree standard) lieu ou on lit l'entree utilisateur (le clavier)
 */
+
 int main(void)
 {
     char input[1024]; // Buffer pour stocker la commande de l'utilisateur
